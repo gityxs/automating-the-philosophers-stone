@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c91a87aa.css",
-    "main.js": "/static/js/main.a59c5292.js",
-    "static/js/787.536b344e.chunk.js": "/static/js/787.536b344e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.c91a87aa.css.map": "/static/css/main.c91a87aa.css.map",
-    "main.a59c5292.js.map": "/static/js/main.a59c5292.js.map",
-    "787.536b344e.chunk.js.map": "/static/js/787.536b344e.chunk.js.map"
+    "main.css": "/AutomatingThePhilosophersStone/static/css/main.c91a87aa.css",
+    "main.js": "/AutomatingThePhilosophersStone/static/js/main.c99130a2.js",
+    "static/js/787.536b344e.chunk.js": "/AutomatingThePhilosophersStone/static/js/787.536b344e.chunk.js",
+    "static/media/logo.svg": "/AutomatingThePhilosophersStone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AutomatingThePhilosophersStone/index.html",
+    "main.c91a87aa.css.map": "/AutomatingThePhilosophersStone/static/css/main.c91a87aa.css.map",
+    "main.c99130a2.js.map": "/AutomatingThePhilosophersStone/static/js/main.c99130a2.js.map",
+    "787.536b344e.chunk.js.map": "/AutomatingThePhilosophersStone/static/js/787.536b344e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c91a87aa.css",
-    "static/js/main.a59c5292.js"
+    "static/js/main.c99130a2.js"
   ]
 }
