@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AutomatingThePhilosophersStone/static/css/main.d3fa2361.css",
-    "main.js": "/AutomatingThePhilosophersStone/static/js/main.53227ac6.js",
+    "main.js": "/AutomatingThePhilosophersStone/static/js/main.89f2dbe6.js",
     "static/js/787.536b344e.chunk.js": "/AutomatingThePhilosophersStone/static/js/787.536b344e.chunk.js",
     "static/media/logo.svg": "/AutomatingThePhilosophersStone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AutomatingThePhilosophersStone/index.html",
     "main.d3fa2361.css.map": "/AutomatingThePhilosophersStone/static/css/main.d3fa2361.css.map",
-    "main.53227ac6.js.map": "/AutomatingThePhilosophersStone/static/js/main.53227ac6.js.map",
+    "main.89f2dbe6.js.map": "/AutomatingThePhilosophersStone/static/js/main.89f2dbe6.js.map",
     "787.536b344e.chunk.js.map": "/AutomatingThePhilosophersStone/static/js/787.536b344e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3fa2361.css",
-    "static/js/main.53227ac6.js"
+    "static/js/main.89f2dbe6.js"
   ]
 }
