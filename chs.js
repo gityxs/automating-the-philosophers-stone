@@ -75,7 +75,7 @@ var cnItems = {
     "(Log2(earth + 1), next point at": "(Log2(土 + 1)，下一点在",
     "(Log4(water + 1), next point at": "(Log4(水 + 1)，下一点在",
     "(The key and sucess to a healthy eternal life)": "（健康永生的关键与成功）",
-    "% Chance to increase production every tick": "每个刻度增加产量的机会百分比",
+    "% Chance to increase production every tick": "% 几率增加产量每 tick",
     "% Filled": "％ 填充时",
     "1 (Base energy)": "1（基础能量）",
     "1: Lead (Symbol ♄)": "1：铅（符号 ♄）",
